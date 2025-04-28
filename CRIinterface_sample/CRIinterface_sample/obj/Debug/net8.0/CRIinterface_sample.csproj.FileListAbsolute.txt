@@ -1,0 +1,14 @@
+C:\Users\Rin\source\repos\CRIinterface_sample\CRIinterface_sample\bin\Debug\net8.0\CRIinterface_sample.exe
+C:\Users\Rin\source\repos\CRIinterface_sample\CRIinterface_sample\bin\Debug\net8.0\CRIinterface_sample.deps.json
+C:\Users\Rin\source\repos\CRIinterface_sample\CRIinterface_sample\bin\Debug\net8.0\CRIinterface_sample.runtimeconfig.json
+C:\Users\Rin\source\repos\CRIinterface_sample\CRIinterface_sample\bin\Debug\net8.0\CRIinterface_sample.dll
+C:\Users\Rin\source\repos\CRIinterface_sample\CRIinterface_sample\bin\Debug\net8.0\CRIinterface_sample.pdb
+C:\Users\Rin\source\repos\CRIinterface_sample\CRIinterface_sample\obj\Debug\net8.0\CRIinterface_sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rin\source\repos\CRIinterface_sample\CRIinterface_sample\obj\Debug\net8.0\CRIinterface_sample.AssemblyInfoInputs.cache
+C:\Users\Rin\source\repos\CRIinterface_sample\CRIinterface_sample\obj\Debug\net8.0\CRIinterface_sample.AssemblyInfo.cs
+C:\Users\Rin\source\repos\CRIinterface_sample\CRIinterface_sample\obj\Debug\net8.0\CRIinterface_sample.csproj.CoreCompileInputs.cache
+C:\Users\Rin\source\repos\CRIinterface_sample\CRIinterface_sample\obj\Debug\net8.0\CRIinterface_sample.dll
+C:\Users\Rin\source\repos\CRIinterface_sample\CRIinterface_sample\obj\Debug\net8.0\refint\CRIinterface_sample.dll
+C:\Users\Rin\source\repos\CRIinterface_sample\CRIinterface_sample\obj\Debug\net8.0\CRIinterface_sample.pdb
+C:\Users\Rin\source\repos\CRIinterface_sample\CRIinterface_sample\obj\Debug\net8.0\CRIinterface_sample.genruntimeconfig.cache
+C:\Users\Rin\source\repos\CRIinterface_sample\CRIinterface_sample\obj\Debug\net8.0\ref\CRIinterface_sample.dll

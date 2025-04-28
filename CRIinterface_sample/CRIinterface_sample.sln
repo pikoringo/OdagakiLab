@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRIinterface_sample", "CRIinterface_sample\CRIinterface_sample.csproj", "{01F281E5-731B-4C93-BA85-9AC1C34AA446}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01F281E5-731B-4C93-BA85-9AC1C34AA446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F281E5-731B-4C93-BA85-9AC1C34AA446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F281E5-731B-4C93-BA85-9AC1C34AA446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F281E5-731B-4C93-BA85-9AC1C34AA446}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0CE0A65-A7A9-45F2-83EA-53DDBC5DC699}
+	EndGlobalSection
+EndGlobal

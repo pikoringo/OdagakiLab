@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CRIinterface_sample/1.0.0": {
+        "runtime": {
+          "CRIinterface_sample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CRIinterface_sample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
