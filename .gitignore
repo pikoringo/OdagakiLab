@@ -1,0 +1,11 @@
+# Ignore compiled binaries
+*.dll
+*.so
+*.dylib
+*.dat
+
+
+# Visual Studio
+.vs/
+*.user
+*.suo
